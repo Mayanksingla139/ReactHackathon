@@ -1,0 +1,26 @@
+.image{
+    border: none;
+}
+  
+a{
+    text-decoration: none;
+}
+.Button{
+    width: 100%;
+    border-radius: 10px;
+    border: 2px solid black;
+    margin: 12px;;
+  
+}
+  
+a{
+    color: hotpink;
+}
+
+a:hover{
+    color: greenyellow;
+}
+
+.size{
+    height: 200px;
+}

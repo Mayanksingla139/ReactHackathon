@@ -19,3 +19,6 @@
 
 
 <a href="https://www.youtube.com/watch?v=Nt6GRsLJsjE">Video Demo</a>
+
+
+![Homepage image](homeofideaon.png)

@@ -14,11 +14,11 @@ a{
 }
   
 a{
-    color: hotpink;
+    color: #6366f1;
 }
 
 a:hover{
-    color: greenyellow;
+    color: #6c6edf;
 }
 
 .size{
